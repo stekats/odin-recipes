@@ -30,3 +30,8 @@ article {
 .home {
   background-color: rgb(181, 204, 204);
 }
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
